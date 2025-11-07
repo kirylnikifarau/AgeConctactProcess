@@ -1,0 +1,7 @@
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\ContactProcess\ContactProcess\bin\Debug\ContactProcess.exe.config
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\ContactProcess\ContactProcess\bin\Debug\ContactProcess.exe
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\ContactProcess\ContactProcess\bin\Debug\ContactProcess.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\ContactProcess\ContactProcess\obj\Debug\ContactProcess.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\ContactProcess\ContactProcess\obj\Debug\ContactProcess.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\ContactProcess\ContactProcess\obj\Debug\ContactProcess.exe
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\ContactProcess\ContactProcess\obj\Debug\ContactProcess.pdb
