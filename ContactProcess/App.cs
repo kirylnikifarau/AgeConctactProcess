@@ -1,4 +1,8 @@
 ﻿using System;
+using ContactProcess.Rules;
+using ContactProcess.interfaces;
+using System.Collections.Generic;
+using ContactProcess.Models;
 
 namespace ContactProcess
 {
@@ -17,7 +21,13 @@ namespace ContactProcess
                 Console.Write("Введите дату рождения (ГГГГ-ММ-ДД): ");
                 string dob = Console.ReadLine();
 
-                var contact = new Contact(firstName, lastName, dob); ;
+                var rules = new List<IAgeSuffixRule>
+                {
+                    new MinorSuffixRule(),
+                    new SeniorSuffixRule(),
+                };
+
+                var contact = new Contact(firstName, lastName, dob, rules);
 
                 Console.WriteLine();
                 Console.WriteLine(contact.GetContact());
@@ -29,7 +39,6 @@ namespace ContactProcess
 
             Console.ReadKey();
         }
-
     }
 }
 
