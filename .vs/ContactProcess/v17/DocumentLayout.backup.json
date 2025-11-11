@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|c:\\users\\kiril\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\innowise\\ageconctactprocess\\contactprocess\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|solutionrelative:contactprocess\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|c:\\users\\kiril\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\innowise\\ageconctactprocess\\contactprocess\\services\\contactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|solutionrelative:contactprocess\\services\\contactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|c:\\users\\kiril\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\innowise\\ageconctactprocess\\contactprocess\\services\\contactformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|solutionrelative:contactprocess\\services\\contactformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|c:\\users\\kiril\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\innowise\\ageconctactprocess\\contactprocess\\services\\agesuffixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|solutionrelative:contactprocess\\services\\agesuffixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|c:\\users\\kiril\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\innowise\\ageconctactprocess\\contactprocess\\rules\\seniorsuffixrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|solutionrelative:contactprocess\\rules\\seniorsuffixrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|c:\\users\\kiril\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\innowise\\ageconctactprocess\\contactprocess\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|solutionrelative:contactprocess\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|c:\\users\\kiril\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\innowise\\ageconctactprocess\\contactprocess\\interfaces\\iagesuffixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|solutionrelative:contactprocess\\interfaces\\iagesuffixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|c:\\users\\kiril\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\innowise\\ageconctactprocess\\contactprocess\\interfaces\\iagesuffixrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B1D6D-F37E-43CC-B334-FF68BBA1CF07}|ContactProcess\\ContactProcess.csproj|solutionrelative:contactprocess\\interfaces\\iagesuffixrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeniorSuffixRule.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Rules\\SeniorSuffixRule.cs",
+              "RelativeDocumentMoniker": "ContactProcess\\Rules\\SeniorSuffixRule.cs",
+              "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Rules\\SeniorSuffixRule.cs",
+              "RelativeToolTip": "ContactProcess\\Rules\\SeniorSuffixRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:22:54.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Services\\ContactFormatter.cs",
+              "RelativeDocumentMoniker": "ContactProcess\\Services\\ContactFormatter.cs",
+              "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Services\\ContactFormatter.cs*",
+              "RelativeToolTip": "ContactProcess\\Services\\ContactFormatter.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:07:18.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Services\\ContactValidator.cs",
+              "RelativeDocumentMoniker": "ContactProcess\\Services\\ContactValidator.cs",
+              "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Services\\ContactValidator.cs*",
+              "RelativeToolTip": "ContactProcess\\Services\\ContactValidator.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:06:14.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactProcess\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactProcess\\Models\\Contact.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:05:37.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\App.cs",
+              "RelativeDocumentMoniker": "ContactProcess\\App.cs",
+              "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\App.cs",
+              "RelativeToolTip": "ContactProcess\\App.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:04:31.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAgeSuffixRule.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Interfaces\\IAgeSuffixRule.cs",
+              "RelativeDocumentMoniker": "ContactProcess\\Interfaces\\IAgeSuffixRule.cs",
+              "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Interfaces\\IAgeSuffixRule.cs",
+              "RelativeToolTip": "ContactProcess\\Interfaces\\IAgeSuffixRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:04:23.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgeSuffixService.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Services\\AgeSuffixService.cs",
+              "RelativeDocumentMoniker": "ContactProcess\\Services\\AgeSuffixService.cs",
+              "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Services\\AgeSuffixService.cs",
+              "RelativeToolTip": "ContactProcess\\Services\\AgeSuffixService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:03:30.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAgeSuffixService.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Interfaces\\IAgeSuffixService.cs",
+              "RelativeDocumentMoniker": "ContactProcess\\Interfaces\\IAgeSuffixService.cs",
+              "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\AgeConctactProcess\\ContactProcess\\Interfaces\\IAgeSuffixService.cs",
+              "RelativeToolTip": "ContactProcess\\Interfaces\\IAgeSuffixService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:01:34.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

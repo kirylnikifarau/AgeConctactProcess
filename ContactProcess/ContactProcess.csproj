@@ -44,12 +44,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="Interfaces\IAgeSuffixService.cs" />
     <Compile Include="Models\Contact.cs" />
-    <Compile Include="interfaces\IAgeSuffixRule.cs" />
+    <Compile Include="Interfaces\IAgeSuffixRule.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rules\MinorSuffixRule.cs" />
     <Compile Include="Rules\SeniorSuffixRule.cs" />
+    <Compile Include="Services\AgeSuffixService.cs" />
+    <Compile Include="Services\ContactFormatter.cs" />
+    <Compile Include="Services\ContactValidator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

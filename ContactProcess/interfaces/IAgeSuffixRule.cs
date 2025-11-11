@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ContactProcess.interfaces
+namespace ContactProcess.Interfaces
 {
     public interface IAgeSuffixRule
     {

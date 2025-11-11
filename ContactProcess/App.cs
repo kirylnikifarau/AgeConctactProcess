@@ -1,8 +1,8 @@
-﻿using System;
+﻿using ContactProcess.Interfaces;
 using ContactProcess.Rules;
-using ContactProcess.interfaces;
+using ContactProcess.Services;
+using System;
 using System.Collections.Generic;
-using ContactProcess.Models;
 
 namespace ContactProcess
 {
@@ -24,13 +24,17 @@ namespace ContactProcess
                 var rules = new List<IAgeSuffixRule>
                 {
                     new MinorSuffixRule(),
-                    new SeniorSuffixRule(),
+                    new SeniorSuffixRule()
                 };
 
-                var contact = new Contact(firstName, lastName, dob, rules);
+                var suffixService = new AgeSuffixService(rules);
+                var validator = new ContactValidator();
+                var formatter = new ContactFormatter(suffixService);
+
+                var contact = validator.ValidateAndCreate(firstName, lastName, dob);
 
                 Console.WriteLine();
-                Console.WriteLine(contact.GetContact());
+                Console.WriteLine(formatter.Format(contact));
             }
             catch (Exception ex)
             {
